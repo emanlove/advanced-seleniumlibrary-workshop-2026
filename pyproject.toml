@@ -1,0 +1,11 @@
+[project]
+name = "advanced-seleniumlibrary-workshop-robocon2025"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "flask==3.1.2",
+    "robotframework==7.4.1",
+    "robotframework-seleniumlibrary==6.8.0",
+]

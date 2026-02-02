@@ -1,0 +1,18 @@
+# Virtual environments
+.venv
+
+# Driverlogs
+geckodriver*.log
+chromedriver.log
+
+# Python
+__pycache__
+
+# Robot execution artifacts
+output*.xml
+log*.html
+report*.html
+selenium-screenshot-*.png
+
+# Cached Broswer/Drivers in exercises 10-BrowserDriverConfirguration
+downloads/
