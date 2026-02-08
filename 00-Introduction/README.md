@@ -16,7 +16,7 @@ It will install Python, create a virtual environment and install all the depende
 
 #### Verification of setup:
 
-Validate your setup by running `uv run robot 0A_Introduction/SetupTest.robot`.
+Validate your setup by running `uv run robot 00_Introduction/SetupTest.robot`.
 
 To check the individual components:
 
