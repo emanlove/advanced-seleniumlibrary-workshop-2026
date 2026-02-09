@@ -7,6 +7,7 @@ The purpose of this exercise is to learn about the Selenium Manager
 
 - Trainees will learn that the Selenium Manager can be used to manage the browsers and
   the drivers
+- Trainees will be able to describe how to find the Selenium Manager executable
 - Trainees will learn the selenium manager can be used as a stand alone executable or as
   a hidden tool by selenium
 
