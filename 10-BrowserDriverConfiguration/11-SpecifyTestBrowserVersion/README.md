@@ -14,5 +14,6 @@ The purpose of this exercise is to learn about configuring the browser using opt
 
 #### Resources:
 
-https://www.selenium.dev/documentation/webdriver/drivers/options/#browserversion
-https://www.selenium.dev/documentation/selenium_manager/#automated-browser-management
+About managing the browser version - https://www.selenium.dev/documentation/selenium_manager/#automated-browser-management
+
+Specifying the browser version - https://www.selenium.dev/documentation/webdriver/drivers/options/#browserversion
