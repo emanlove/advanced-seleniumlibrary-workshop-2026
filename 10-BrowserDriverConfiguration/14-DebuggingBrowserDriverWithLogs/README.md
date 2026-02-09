@@ -1,7 +1,7 @@
 ### Getting the Driver Logs for debugging purposes
 
 #### Purpose:
-Learn about the logs for both the browser and drivers and how to extract them
+Learn about the logs for the drivers and how to extract them
 
 #### Learning Objectives:
 
