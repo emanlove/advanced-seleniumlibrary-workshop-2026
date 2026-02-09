@@ -1,18 +1,13 @@
-ToDO: This is a placeholder and below is a note which states to give example to the purpose of this exercise 
+### Two methods for setting options and service arguments
 
-Depending on how you configure Open Browser keyword with options or service class, from that thread, this seems to be the argument used to correct for that issue ..
-If using the string method for options then
+#### Purpose:
+Learn the two methods for setting options and service: using the string method or the class method.
 
-```robotframework
-*** Test Cases ***
-Fix for Chrome issue
-    Open Browser    about:blank    chrome    options=add_argument("--no-sandbox");
-```
-or if you use the class method
-```robotframework
-*** Test Cases ***
-Fix for Chrome issue
-    ${ChromeOptions} =    Evaluate    selenium.webdriver.ChromeOptions()
-    Call Method    ${ChromeOptions}    add_argument    --no-sandbox
-    Open Browser    about:blank    chrome    options=${ChromeOptions}
-```
+#### Learning Objectives:
+
+- Trainees will be able to describe the different methods one can use to setup
+  options and/or service arguments.
+
+#### Challenge:
+As a challenge take any of the previous option or service and rewrite
+it using the class method
