@@ -1,6 +1,5 @@
 # Example of advanced browser configuration
-Here are a few examples of browser configurations that one or another might try.
-Most of these came from user questions with the Robot Framework Slack community
+Here is an example of browser configurations that one or another might try.
 
 ### Download PDF and open outside the browser
 The goal is to download a pdf file without being prompted and to have it open externally, outside of the browser.
